@@ -1,0 +1,8 @@
+prefix=/home/lukieluke/Documents/Udacity_Courses/SDC/Term3/Lesson25_FinalGroupProject/CarND-Capstone/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/home/lukieluke/Documents/Udacity_Courses/SDC/Term3/Lesson25_FinalGroupProject/CarND-Capstone/ros/devel/include
+Libs: -L/home/lukieluke/Documents/Udacity_Courses/SDC/Term3/Lesson25_FinalGroupProject/CarND-Capstone/ros/devel/lib 
+Requires: 
